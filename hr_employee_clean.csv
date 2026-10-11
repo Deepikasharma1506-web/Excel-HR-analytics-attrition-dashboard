@@ -1,0 +1,351 @@
+Employee_ID,Department,Job_Role,Age,Gender,Education,Location,Hire_Date,Tenure_Years,Monthly_Salary_INR,Performance_Rating,Overtime,Job_Satisfaction_1to5,Employment_Status,Tenure_Band,Salary_Band
+EMP-0001,Engineering,QA Engineer,56,Male,PhD,Chennai,2015-03-09,10,123778,Meets Expectations,Yes,5,Active,7+ years,100k+
+EMP-0002,Engineering,Software Engineer,52,Non-disclosed,Diploma,Bengaluru,2023-06-12,2,103937,Meets Expectations,No,1,Active,2-3 years,100k+
+EMP-0003,Marketing,SEO Analyst,56,Non-disclosed,Diploma,Mumbai,2013-05-14,12,52308,Needs Improvement,Yes,5,Left,7+ years,30k-60k
+EMP-0004,Operations,Supply Chain Analyst,50,Male,Bachelor's,Pune,2007-03-12,18,49172,Needs Improvement,Yes,3,Active,7+ years,30k-60k
+EMP-0005,Customer Support,Support Specialist,47,Non-disclosed,PhD,Hyderabad,2022-04-11,3,56383,Exceeds Expectations,No,4,Active,2-3 years,30k-60k
+EMP-0006,Human Resources,HR Executive,48,Male,Master's,Pune,2018-09-07,7,62289,Needs Improvement,Yes,2,Active,7+ years,60k-100k
+EMP-0007,Engineering,QA Engineer,40,Non-disclosed,PhD,Chennai,2011-06-13,14,97701,Needs Improvement,No,4,Active,7+ years,60k-100k
+EMP-0008,Marketing,Marketing Specialist,54,Male,Diploma,Bengaluru,2017-08-22,8,72968,Meets Expectations,Yes,1,Active,7+ years,60k-100k
+EMP-0009,Finance,Accountant,41,Male,Bachelor's,Pune,2009-04-16,16,36406,Needs Improvement,No,4,Active,7+ years,30k-60k
+EMP-0010,Sales,Account Manager,44,Female,Master's,Dehradun,2012-06-07,13,62926,Needs Improvement,Yes,4,Left,7+ years,60k-100k
+EMP-0011,Engineering,Software Engineer,33,Female,Bachelor's,Hyderabad,2023-12-10,2,116642,Needs Improvement,No,1,Active,2-3 years,100k+
+EMP-0012,Marketing,Marketing Specialist,29,Non-disclosed,Master's,Pune,2014-03-08,11,73554,Exceeds Expectations,Yes,2,Left,7+ years,60k-100k
+EMP-0013,Human Resources,HR Executive,29,Non-disclosed,Diploma,Hyderabad,2009-06-08,16,71814,Exceeds Expectations,Yes,3,Active,7+ years,60k-100k
+EMP-0014,Sales,Account Manager,25,Female,Diploma,Dehradun,2009-07-08,16,41911,Meets Expectations,No,2,Active,7+ years,30k-60k
+EMP-0015,Engineering,Data Analyst,49,Male,Bachelor's,Pune,2025-05-07,0,134495,Exceeds Expectations,No,5,Active,0-1 years,100k+
+EMP-0016,Customer Support,Support Specialist,50,Non-disclosed,Master's,Dehradun,2020-11-27,5,62851,Exceeds Expectations,Yes,2,Active,4-6 years,60k-100k
+EMP-0017,Engineering,Software Engineer,49,Non-disclosed,Master's,Pune,2019-01-20,6,116403,Needs Improvement,Yes,2,Active,4-6 years,100k+
+EMP-0018,Sales,Account Manager,38,Male,PhD,Chennai,2009-11-25,16,52380,Meets Expectations,Yes,2,Active,7+ years,30k-60k
+EMP-0019,Sales,Account Manager,39,Male,Master's,Mumbai,2014-04-13,11,93221,Exceeds Expectations,No,2,Active,7+ years,60k-100k
+EMP-0020,Engineering,Software Engineer,35,Female,Bachelor's,Pune,2009-02-08,16,156132,Meets Expectations,No,5,Active,7+ years,100k+
+EMP-0021,Human Resources,HR Executive,28,Non-disclosed,Diploma,Hyderabad,2020-03-17,5,51049,Meets Expectations,No,1,Active,4-6 years,30k-60k
+EMP-0022,Human Resources,HR Executive,27,Male,Bachelor's,Pune,2016-10-07,9,64420,Needs Improvement,No,5,Left,7+ years,60k-100k
+EMP-0023,Engineering,Data Analyst,58,Female,Diploma,Mumbai,2014-10-13,11,86097,Needs Improvement,Yes,2,Left,7+ years,60k-100k
+EMP-0024,Engineering,Software Engineer,27,Female,Bachelor's,Mumbai,2025-10-30,0,47022,Exceeds Expectations,No,4,Left,0-1 years,30k-60k
+EMP-0025,Human Resources,HR Executive,46,Male,Master's,Hyderabad,2007-05-14,18,67797,Exceeds Expectations,No,3,Active,7+ years,60k-100k
+EMP-0026,Operations,Supply Chain Analyst,24,Non-disclosed,PhD,Delhi,2022-08-10,3,44128,Exceeds Expectations,No,3,Active,2-3 years,30k-60k
+EMP-0027,Marketing,SEO Analyst,55,Male,Master's,Hyderabad,2022-12-04,3,68378,Exceeds Expectations,No,3,Active,2-3 years,60k-100k
+EMP-0028,Engineering,Software Engineer,54,Male,Diploma,Delhi,2020-05-29,5,49891,Meets Expectations,Yes,5,Active,4-6 years,30k-60k
+EMP-0029,Marketing,Marketing Specialist,35,Female,Master's,Hyderabad,2012-12-20,13,80895,Meets Expectations,No,4,Active,7+ years,60k-100k
+EMP-0030,Human Resources,HR Executive,22,Male,PhD,Pune,2008-08-22,17,42958,Meets Expectations,No,4,Active,7+ years,30k-60k
+EMP-0031,Sales,Account Manager,42,Non-disclosed,Diploma,Delhi,2007-02-03,18,32981,Needs Improvement,Yes,1,Active,7+ years,30k-60k
+EMP-0032,Operations,Operations Associate,46,Non-disclosed,Diploma,Chennai,2018-09-05,7,69508,Meets Expectations,Yes,4,Active,7+ years,60k-100k
+EMP-0033,Marketing,Marketing Specialist,56,Male,Diploma,Bengaluru,2015-10-14,10,60098,Exceeds Expectations,No,2,Active,7+ years,60k-100k
+EMP-0034,Sales,Sales Executive,32,Female,Diploma,Mumbai,2010-03-31,15,81520,Needs Improvement,No,1,Active,7+ years,60k-100k
+EMP-0035,Sales,Sales Executive,46,Male,Master's,Hyderabad,2022-11-09,3,68201,Needs Improvement,Yes,1,Left,2-3 years,60k-100k
+EMP-0036,Operations,Operations Associate,31,Male,Diploma,Hyderabad,2013-08-10,12,27725,Exceeds Expectations,No,3,Active,7+ years,Under 30k
+EMP-0037,Finance,Financial Analyst,54,Female,Master's,Mumbai,2019-04-01,6,78616,Exceeds Expectations,No,1,Left,4-6 years,60k-100k
+EMP-0038,Engineering,Data Analyst,40,Female,Master's,Hyderabad,2022-02-23,3,53336,Exceeds Expectations,Yes,5,Active,2-3 years,30k-60k
+EMP-0039,Engineering,Data Analyst,37,Non-disclosed,Diploma,Dehradun,2015-11-04,10,54585,Needs Improvement,Yes,4,Active,7+ years,30k-60k
+EMP-0040,Finance,Accountant,26,Female,Bachelor's,Chennai,2022-04-23,3,91760,Exceeds Expectations,Yes,5,Active,2-3 years,60k-100k
+EMP-0041,Marketing,Marketing Specialist,41,Non-disclosed,PhD,Pune,2018-07-26,7,63179,Exceeds Expectations,No,2,Left,7+ years,60k-100k
+EMP-0042,Customer Support,Support Specialist,34,Female,PhD,Dehradun,2011-03-20,14,48850,Exceeds Expectations,No,2,Active,7+ years,30k-60k
+EMP-0043,Sales,Account Manager,49,Male,Master's,Hyderabad,2012-02-18,13,69947,Meets Expectations,No,3,Active,7+ years,60k-100k
+EMP-0044,Marketing,Marketing Specialist,46,Male,Bachelor's,Hyderabad,2021-07-17,4,49232,Exceeds Expectations,Yes,5,Active,4-6 years,30k-60k
+EMP-0045,Marketing,Marketing Specialist,24,Male,Not specified,Delhi,2022-08-18,3,53079,Exceeds Expectations,Yes,4,Active,2-3 years,30k-60k
+EMP-0046,Marketing,Marketing Specialist,42,Female,Bachelor's,Chennai,2021-09-11,4,85792,Exceeds Expectations,No,3,Active,4-6 years,60k-100k
+EMP-0047,Operations,Supply Chain Analyst,53,Male,Diploma,Delhi,2017-03-24,8,76822,Meets Expectations,Yes,3,Active,7+ years,60k-100k
+EMP-0048,Human Resources,Recruiter,34,Non-disclosed,Master's,Dehradun,2025-07-26,0,42378,Exceeds Expectations,Yes,1,Left,0-1 years,30k-60k
+EMP-0049,Finance,Accountant,47,Female,Master's,Hyderabad,2009-04-17,16,35709,Meets Expectations,Yes,5,Active,7+ years,30k-60k
+EMP-0050,Finance,Accountant,52,Male,Diploma,Delhi,2015-02-08,10,94874,Exceeds Expectations,No,3,Active,7+ years,60k-100k
+EMP-0051,Engineering,Data Analyst,38,Non-disclosed,PhD,Mumbai,2010-09-15,15,71048,Exceeds Expectations,No,3,Active,7+ years,60k-100k
+EMP-0052,Customer Support,Support Associate,53,Non-disclosed,Diploma,Pune,2012-07-25,13,62397,Exceeds Expectations,No,1,Active,7+ years,60k-100k
+EMP-0053,Marketing,Marketing Specialist,27,Non-disclosed,Master's,Delhi,2020-05-09,5,93173,Exceeds Expectations,Yes,1,Left,4-6 years,60k-100k
+EMP-0054,Finance,Accountant,52,Female,Diploma,Mumbai,2009-02-05,16,59692,Needs Improvement,Yes,5,Active,7+ years,30k-60k
+EMP-0055,Human Resources,HR Executive,30,Female,Bachelor's,Chennai,2008-01-29,17,64130,Needs Improvement,Yes,2,Active,7+ years,60k-100k
+EMP-0056,Marketing,Marketing Specialist,29,Male,Master's,Bengaluru,2016-12-06,9,93117,Exceeds Expectations,Yes,2,Active,7+ years,60k-100k
+EMP-0057,Operations,Supply Chain Analyst,35,Non-disclosed,Diploma,Hyderabad,2021-11-15,4,26901,Needs Improvement,No,4,Active,4-6 years,Under 30k
+EMP-0058,Operations,Operations Associate,51,Female,Bachelor's,Delhi,2012-07-07,13,71846,Meets Expectations,No,2,Active,7+ years,60k-100k
+EMP-0059,Operations,Operations Associate,26,Male,PhD,Bengaluru,2017-10-07,8,57981,Meets Expectations,Yes,3,Active,7+ years,30k-60k
+EMP-0060,Operations,Supply Chain Analyst,48,Male,Diploma,Dehradun,2010-09-19,15,60118,Meets Expectations,No,2,Active,7+ years,60k-100k
+EMP-0061,Operations,Operations Associate,33,Female,Bachelor's,Mumbai,2011-01-22,14,82587,Meets Expectations,No,5,Active,7+ years,60k-100k
+EMP-0062,Sales,Sales Executive,48,Female,Master's,Dehradun,2022-02-11,3,84831,Needs Improvement,Yes,2,Active,2-3 years,60k-100k
+EMP-0063,Marketing,Marketing Specialist,38,Male,PhD,Bengaluru,2014-11-09,11,64145,Exceeds Expectations,Yes,4,Active,7+ years,60k-100k
+EMP-0064,Human Resources,HR Executive,56,Male,Diploma,Dehradun,2018-11-23,7,67881,Exceeds Expectations,No,3,Active,7+ years,60k-100k
+EMP-0065,Marketing,SEO Analyst,26,Non-disclosed,Bachelor's,Delhi,2008-04-09,17,49448,Exceeds Expectations,Yes,5,Active,7+ years,30k-60k
+EMP-0066,Human Resources,HR Executive,30,Male,Master's,Delhi,2022-11-09,3,59367,Needs Improvement,No,4,Active,2-3 years,30k-60k
+EMP-0067,Sales,Sales Executive,42,Non-disclosed,Master's,Mumbai,2008-05-08,17,37322,Meets Expectations,Yes,3,Active,7+ years,30k-60k
+EMP-0068,Operations,Supply Chain Analyst,47,Female,PhD,Bengaluru,2011-03-06,14,58691,Meets Expectations,No,2,Left,7+ years,30k-60k
+EMP-0069,Sales,Account Manager,54,Female,PhD,Bengaluru,2022-06-19,3,78019,Needs Improvement,No,5,Active,2-3 years,60k-100k
+EMP-0070,Human Resources,Recruiter,38,Male,Bachelor's,Mumbai,2011-03-02,14,84399,Meets Expectations,No,2,Active,7+ years,60k-100k
+EMP-0071,Sales,Sales Executive,50,Male,Bachelor's,Chennai,2009-11-11,16,37958,Meets Expectations,No,1,Active,7+ years,30k-60k
+EMP-0072,Finance,Accountant,31,Non-disclosed,Diploma,Mumbai,2013-11-21,12,38699,Meets Expectations,Yes,1,Left,7+ years,30k-60k
+EMP-0073,Engineering,QA Engineer,23,Male,PhD,Chennai,2019-04-14,6,117050,Exceeds Expectations,Yes,5,Active,4-6 years,100k+
+EMP-0074,Engineering,Software Engineer,25,Male,Master's,Delhi,2019-08-09,6,56939,Exceeds Expectations,Yes,4,Active,4-6 years,30k-60k
+EMP-0075,Engineering,QA Engineer,31,Non-disclosed,Master's,Pune,2010-12-08,15,140382,Needs Improvement,Yes,3,Active,7+ years,100k+
+EMP-0076,Sales,Sales Executive,21,Male,PhD,Hyderabad,2008-11-20,17,59757,Meets Expectations,No,4,Active,7+ years,30k-60k
+EMP-0077,Human Resources,HR Executive,53,Male,PhD,Mumbai,2020-02-06,5,64646,Meets Expectations,Yes,2,Active,4-6 years,60k-100k
+EMP-0078,Finance,Financial Analyst,51,Non-disclosed,Master's,Dehradun,2023-07-20,2,49077,Meets Expectations,No,1,Left,2-3 years,30k-60k
+EMP-0079,Human Resources,Recruiter,47,Non-disclosed,Diploma,Hyderabad,2022-07-03,3,33871,Exceeds Expectations,Yes,2,Left,2-3 years,30k-60k
+EMP-0080,Operations,Supply Chain Analyst,36,Male,Master's,Mumbai,2007-04-08,18,32574,Meets Expectations,No,1,Left,7+ years,30k-60k
+EMP-0081,Engineering,Software Engineer,51,Female,PhD,Delhi,2015-11-30,10,57725,Needs Improvement,No,2,Left,7+ years,30k-60k
+EMP-0082,Human Resources,Recruiter,22,Male,Diploma,Bengaluru,2009-06-23,16,89622,Exceeds Expectations,Yes,3,Active,7+ years,60k-100k
+EMP-0083,Engineering,Data Analyst,49,Female,PhD,Mumbai,2011-05-25,14,74808,Meets Expectations,Yes,5,Active,7+ years,60k-100k
+EMP-0084,Operations,Supply Chain Analyst,51,Male,Diploma,Chennai,2016-10-08,9,65767,Needs Improvement,No,3,Left,7+ years,60k-100k
+EMP-0085,Human Resources,Recruiter,35,Non-disclosed,Diploma,Bengaluru,2025-11-10,0,47298,Needs Improvement,Yes,2,Left,0-1 years,30k-60k
+EMP-0086,Sales,Account Manager,55,Non-disclosed,PhD,Dehradun,2015-08-22,10,99968,Meets Expectations,No,5,Active,7+ years,60k-100k
+EMP-0087,Finance,Accountant,31,Male,Master's,Pune,2018-06-24,7,57610,Meets Expectations,No,2,Active,7+ years,30k-60k
+EMP-0088,Operations,Supply Chain Analyst,56,Male,PhD,Bengaluru,2024-02-13,1,27369,Needs Improvement,No,5,Active,0-1 years,Under 30k
+EMP-0089,Customer Support,Support Associate,21,Male,PhD,Pune,2009-02-20,16,47528,Exceeds Expectations,No,3,Active,7+ years,30k-60k
+EMP-0090,Marketing,SEO Analyst,27,Female,Master's,Bengaluru,2018-04-26,7,86596,Exceeds Expectations,No,5,Active,7+ years,60k-100k
+EMP-0091,Finance,Financial Analyst,27,Female,Master's,Pune,2020-10-30,5,36072,Exceeds Expectations,Yes,4,Active,4-6 years,30k-60k
+EMP-0092,Marketing,Marketing Specialist,21,Female,Bachelor's,Chennai,2009-07-14,16,51049,Meets Expectations,No,1,Active,7+ years,30k-60k
+EMP-0093,Finance,Accountant,42,Non-disclosed,Master's,Delhi,2012-11-20,13,104673,Meets Expectations,Yes,1,Active,7+ years,100k+
+EMP-0094,Sales,Sales Executive,26,Female,PhD,Pune,2011-12-03,14,83520,Needs Improvement,Yes,4,Active,7+ years,60k-100k
+EMP-0095,Engineering,Software Engineer,47,Female,PhD,Dehradun,2011-11-30,14,57916,Needs Improvement,No,4,Active,7+ years,30k-60k
+EMP-0096,Human Resources,HR Executive,21,Female,Diploma,Mumbai,2009-05-27,16,50942,Meets Expectations,No,2,Active,7+ years,30k-60k
+EMP-0097,Operations,Operations Associate,57,Non-disclosed,Diploma,Mumbai,2018-05-29,7,82421,Exceeds Expectations,Yes,3,Active,7+ years,60k-100k
+EMP-0098,Customer Support,Support Associate,54,Male,Diploma,Delhi,2007-03-27,18,61638,Needs Improvement,Yes,3,Active,7+ years,60k-100k
+EMP-0099,Human Resources,Recruiter,34,Non-disclosed,PhD,Bengaluru,2011-07-05,14,83855,Needs Improvement,No,3,Active,7+ years,60k-100k
+EMP-0100,Marketing,SEO Analyst,33,Non-disclosed,Diploma,Dehradun,2017-07-24,8,46173,Needs Improvement,Yes,3,Active,7+ years,30k-60k
+EMP-0101,Operations,Supply Chain Analyst,59,Male,Bachelor's,Mumbai,2022-05-26,3,52807,Needs Improvement,No,3,Active,2-3 years,30k-60k
+EMP-0102,Finance,Accountant,45,Non-disclosed,Diploma,Chennai,2007-08-30,18,33893,Exceeds Expectations,No,3,Active,7+ years,30k-60k
+EMP-0103,Engineering,Software Engineer,39,Non-disclosed,Bachelor's,Delhi,2014-07-18,11,124061,Meets Expectations,No,4,Active,7+ years,100k+
+EMP-0104,Finance,Financial Analyst,25,Female,Master's,Delhi,2016-06-29,9,60610,Meets Expectations,Yes,3,Active,7+ years,60k-100k
+EMP-0105,Human Resources,HR Executive,39,Female,Bachelor's,Chennai,2008-06-04,17,68142,Needs Improvement,Yes,4,Active,7+ years,60k-100k
+EMP-0106,Operations,Supply Chain Analyst,23,Female,PhD,Chennai,2023-03-20,2,82303,Needs Improvement,Yes,1,Active,2-3 years,60k-100k
+EMP-0107,Customer Support,Support Specialist,33,Female,PhD,Mumbai,2016-10-18,9,66329,Needs Improvement,No,4,Active,7+ years,60k-100k
+EMP-0108,Human Resources,HR Executive,50,Non-disclosed,PhD,Chennai,2020-05-02,5,31199,Needs Improvement,No,5,Active,4-6 years,30k-60k
+EMP-0109,Operations,Operations Associate,48,Female,Diploma,Dehradun,2021-05-10,4,77183,Meets Expectations,No,1,Active,4-6 years,60k-100k
+EMP-0110,Sales,Sales Executive,27,Female,PhD,Pune,2019-11-24,6,66680,Needs Improvement,Yes,3,Active,4-6 years,60k-100k
+EMP-0111,Engineering,Software Engineer,33,Male,Diploma,Delhi,2025-07-29,0,117411,Exceeds Expectations,Yes,3,Active,0-1 years,100k+
+EMP-0112,Engineering,Data Analyst,29,Female,Master's,Bengaluru,2008-03-28,17,118168,Exceeds Expectations,Yes,1,Left,7+ years,100k+
+EMP-0113,Engineering,Software Engineer,32,Male,PhD,Delhi,2013-02-10,12,70042,Exceeds Expectations,No,3,Active,7+ years,60k-100k
+EMP-0114,Human Resources,HR Executive,38,Male,Bachelor's,Mumbai,2016-10-17,9,50619,Needs Improvement,Yes,5,Active,7+ years,30k-60k
+EMP-0115,Finance,Accountant,25,Male,Diploma,Mumbai,2022-08-02,3,65872,Meets Expectations,No,2,Left,2-3 years,60k-100k
+EMP-0116,Operations,Operations Associate,33,Non-disclosed,Bachelor's,Delhi,2024-07-23,1,30903,Exceeds Expectations,No,1,Left,0-1 years,30k-60k
+EMP-0117,Operations,Supply Chain Analyst,42,Non-disclosed,Master's,Delhi,2015-07-04,10,59133,Exceeds Expectations,No,1,Active,7+ years,30k-60k
+EMP-0118,Human Resources,Recruiter,44,Female,Diploma,Hyderabad,2010-02-14,15,68983,Meets Expectations,No,4,Active,7+ years,60k-100k
+EMP-0119,Customer Support,Support Associate,48,Male,Bachelor's,Dehradun,2013-03-03,12,64446,Needs Improvement,Yes,5,Left,7+ years,60k-100k
+EMP-0120,Sales,Sales Executive,37,Female,Master's,Pune,2010-09-11,15,74652,Needs Improvement,Yes,4,Active,7+ years,60k-100k
+EMP-0121,Marketing,Marketing Specialist,43,Female,PhD,Chennai,2019-02-07,6,32516,Meets Expectations,Yes,4,Left,4-6 years,30k-60k
+EMP-0122,Sales,Account Manager,48,Non-disclosed,PhD,Bengaluru,2016-11-18,9,65506,Exceeds Expectations,No,2,Active,7+ years,60k-100k
+EMP-0123,Customer Support,Support Associate,42,Non-disclosed,Bachelor's,Chennai,2014-09-26,11,42796,Exceeds Expectations,No,2,Active,7+ years,30k-60k
+EMP-0124,Sales,Account Manager,47,Male,PhD,Delhi,2023-08-14,2,57556,Meets Expectations,Yes,4,Active,2-3 years,30k-60k
+EMP-0125,Operations,Supply Chain Analyst,42,Non-disclosed,Bachelor's,Chennai,2016-06-18,9,79630,Exceeds Expectations,Yes,1,Active,7+ years,60k-100k
+EMP-0126,Human Resources,Recruiter,28,Non-disclosed,Bachelor's,Hyderabad,2012-10-29,13,35842,Meets Expectations,No,3,Active,7+ years,30k-60k
+EMP-0127,Marketing,Marketing Specialist,21,Non-disclosed,Diploma,Bengaluru,2007-03-22,18,70249,Exceeds Expectations,Yes,3,Active,7+ years,60k-100k
+EMP-0128,Customer Support,Support Associate,56,Female,Diploma,Chennai,2010-08-21,15,69050,Needs Improvement,No,3,Active,7+ years,60k-100k
+EMP-0129,Sales,Sales Executive,25,Female,Bachelor's,Dehradun,2013-12-13,12,28998,Exceeds Expectations,No,1,Active,7+ years,Under 30k
+EMP-0130,Operations,Operations Associate,58,Female,PhD,Chennai,2021-12-06,4,28365,Exceeds Expectations,Yes,1,Left,4-6 years,Under 30k
+EMP-0131,Customer Support,Support Specialist,49,Female,Master's,Delhi,2021-07-26,4,24542,Meets Expectations,Yes,4,Active,4-6 years,Under 30k
+EMP-0132,Human Resources,Recruiter,25,Female,Diploma,Pune,2010-09-04,15,74570,Exceeds Expectations,Yes,4,Active,7+ years,60k-100k
+EMP-0133,Engineering,Software Engineer,23,Female,Diploma,Delhi,2025-02-12,0,112070,Meets Expectations,Yes,2,Left,0-1 years,100k+
+EMP-0134,Engineering,Data Analyst,26,Male,PhD,Delhi,2016-07-14,9,143986,Meets Expectations,No,2,Active,7+ years,100k+
+EMP-0135,Sales,Account Manager,49,Female,Bachelor's,Chennai,2007-10-21,18,46127,Meets Expectations,Yes,2,Active,7+ years,30k-60k
+EMP-0136,Customer Support,Support Associate,58,Non-disclosed,Master's,Bengaluru,2011-03-06,14,54694,Exceeds Expectations,Yes,4,Active,7+ years,30k-60k
+EMP-0137,Engineering,Software Engineer,52,Non-disclosed,Bachelor's,Hyderabad,2019-06-02,6,155066,Meets Expectations,No,2,Left,4-6 years,100k+
+EMP-0138,Human Resources,HR Executive,46,Male,Diploma,Mumbai,2022-08-21,3,60044,Exceeds Expectations,Yes,2,Active,2-3 years,60k-100k
+EMP-0139,Marketing,Marketing Specialist,27,Male,PhD,Pune,2024-04-10,1,83463,Meets Expectations,No,4,Active,0-1 years,60k-100k
+EMP-0140,Customer Support,Support Associate,29,Male,Bachelor's,Pune,2015-01-18,10,38698,Meets Expectations,No,5,Active,7+ years,30k-60k
+EMP-0141,Operations,Supply Chain Analyst,46,Female,Master's,Hyderabad,2020-12-20,5,78370,Meets Expectations,No,4,Active,4-6 years,60k-100k
+EMP-0142,Customer Support,Support Specialist,30,Non-disclosed,Master's,Delhi,2020-08-04,5,69247,Needs Improvement,Yes,1,Left,4-6 years,60k-100k
+EMP-0143,Sales,Account Manager,23,Male,Bachelor's,Dehradun,2009-11-04,16,31308,Needs Improvement,No,2,Active,7+ years,30k-60k
+EMP-0144,Human Resources,HR Executive,41,Female,PhD,Hyderabad,2007-12-09,18,47571,Meets Expectations,No,5,Active,7+ years,30k-60k
+EMP-0145,Sales,Account Manager,48,Non-disclosed,Master's,Dehradun,2018-05-07,7,78344,Meets Expectations,No,2,Active,7+ years,60k-100k
+EMP-0146,Customer Support,Support Associate,27,Non-disclosed,PhD,Dehradun,2021-11-07,4,24152,Needs Improvement,No,4,Active,4-6 years,Under 30k
+EMP-0147,Sales,Sales Executive,22,Female,Master's,Bengaluru,2009-04-01,16,87772,Meets Expectations,No,3,Active,7+ years,60k-100k
+EMP-0148,Customer Support,Support Associate,29,Male,Diploma,Chennai,2007-06-17,18,39049,Meets Expectations,No,4,Active,7+ years,30k-60k
+EMP-0149,Customer Support,Support Associate,24,Non-disclosed,Bachelor's,Pune,2015-09-26,10,45718,Meets Expectations,Yes,1,Active,7+ years,30k-60k
+EMP-0150,Operations,Operations Associate,31,Male,Master's,Bengaluru,2010-02-16,15,67249,Meets Expectations,No,1,Active,7+ years,60k-100k
+EMP-0151,Finance,Accountant,55,Female,Bachelor's,Mumbai,2015-08-27,10,109924,Meets Expectations,No,5,Active,7+ years,100k+
+EMP-0152,Finance,Financial Analyst,32,Male,Bachelor's,Bengaluru,2023-11-07,2,35281,Needs Improvement,Yes,1,Active,2-3 years,30k-60k
+EMP-0153,Sales,Sales Executive,59,Non-disclosed,Diploma,Chennai,2025-11-02,0,63707,Meets Expectations,Yes,3,Active,0-1 years,60k-100k
+EMP-0154,Sales,Sales Executive,53,Male,Bachelor's,Chennai,2016-09-08,9,45466,Needs Improvement,Yes,1,Active,7+ years,30k-60k
+EMP-0155,Sales,Account Manager,34,Male,PhD,Pune,2022-06-13,3,56324,Meets Expectations,Yes,2,Left,2-3 years,30k-60k
+EMP-0156,Operations,Supply Chain Analyst,54,Non-disclosed,Diploma,Mumbai,2025-01-18,0,43755,Meets Expectations,No,3,Active,0-1 years,30k-60k
+EMP-0157,Sales,Account Manager,40,Male,PhD,Pune,2011-06-13,14,48528,Meets Expectations,No,4,Left,7+ years,30k-60k
+EMP-0158,Customer Support,Support Specialist,24,Non-disclosed,Diploma,Mumbai,2011-12-25,14,36913,Needs Improvement,Yes,1,Left,7+ years,30k-60k
+EMP-0159,Finance,Financial Analyst,42,Male,Diploma,Dehradun,2014-09-13,11,86143,Needs Improvement,Yes,4,Active,7+ years,60k-100k
+EMP-0160,Human Resources,Recruiter,50,Female,Bachelor's,Hyderabad,2011-03-03,14,63637,Exceeds Expectations,Yes,5,Active,7+ years,60k-100k
+EMP-0161,Marketing,SEO Analyst,50,Female,Bachelor's,Mumbai,2016-06-03,9,87514,Meets Expectations,No,4,Active,7+ years,60k-100k
+EMP-0162,Customer Support,Support Specialist,42,Male,PhD,Mumbai,2021-11-22,4,22270,Needs Improvement,No,4,Active,4-6 years,Under 30k
+EMP-0163,Marketing,SEO Analyst,23,Non-disclosed,Master's,Hyderabad,2008-05-29,17,64340,Needs Improvement,No,1,Left,7+ years,60k-100k
+EMP-0164,Sales,Sales Executive,52,Female,Bachelor's,Delhi,2024-12-18,1,71546,Exceeds Expectations,No,5,Active,0-1 years,60k-100k
+EMP-0165,Human Resources,HR Executive,31,Female,PhD,Delhi,2010-11-21,15,39538,Meets Expectations,Yes,4,Active,7+ years,30k-60k
+EMP-0166,Customer Support,Support Specialist,40,Female,PhD,Hyderabad,2012-10-22,13,56167,Needs Improvement,Yes,5,Left,7+ years,30k-60k
+EMP-0167,Finance,Accountant,49,Male,PhD,Chennai,2021-06-18,4,40218,Meets Expectations,No,3,Active,4-6 years,30k-60k
+EMP-0168,Sales,Account Manager,49,Non-disclosed,Master's,Delhi,2019-08-09,6,90199,Needs Improvement,No,1,Left,4-6 years,60k-100k
+EMP-0169,Marketing,Marketing Specialist,49,Female,Diploma,Chennai,2019-10-06,6,72096,Exceeds Expectations,No,3,Left,4-6 years,60k-100k
+EMP-0170,Human Resources,HR Executive,29,Non-disclosed,PhD,Dehradun,2007-06-17,18,39030,Meets Expectations,Yes,1,Active,7+ years,30k-60k
+EMP-0171,Human Resources,HR Executive,28,Female,Diploma,Dehradun,2020-04-26,5,42419,Meets Expectations,No,2,Left,4-6 years,30k-60k
+EMP-0172,Operations,Operations Associate,24,Male,Diploma,Bengaluru,2025-07-12,0,65357,Meets Expectations,No,2,Active,0-1 years,60k-100k
+EMP-0173,Marketing,Marketing Specialist,46,Female,Diploma,Mumbai,2010-10-19,15,36390,Exceeds Expectations,Yes,5,Active,7+ years,30k-60k
+EMP-0174,Customer Support,Support Associate,25,Male,Diploma,Hyderabad,2024-08-07,1,22250,Exceeds Expectations,No,4,Active,0-1 years,Under 30k
+EMP-0175,Customer Support,Support Specialist,42,Non-disclosed,Bachelor's,Delhi,2007-05-16,18,56940,Needs Improvement,No,4,Active,7+ years,30k-60k
+EMP-0176,Operations,Operations Associate,21,Female,Master's,Chennai,2009-09-05,16,60607,Exceeds Expectations,Yes,3,Left,7+ years,60k-100k
+EMP-0177,Customer Support,Support Associate,56,Non-disclosed,Master's,Pune,2014-04-17,11,66735,Exceeds Expectations,Yes,4,Active,7+ years,60k-100k
+EMP-0178,Engineering,Software Engineer,24,Female,Diploma,Dehradun,2015-08-10,10,47018,Meets Expectations,No,5,Active,7+ years,30k-60k
+EMP-0179,Marketing,Marketing Specialist,43,Non-disclosed,Master's,Hyderabad,2013-02-14,12,53252,Meets Expectations,No,1,Active,7+ years,30k-60k
+EMP-0180,Customer Support,Support Associate,31,Non-disclosed,Bachelor's,Hyderabad,2023-02-07,2,41053,Exceeds Expectations,Yes,1,Active,2-3 years,30k-60k
+EMP-0181,Customer Support,Support Specialist,32,Female,PhD,Dehradun,2024-09-05,1,26960,Meets Expectations,No,3,Active,0-1 years,Under 30k
+EMP-0182,Finance,Accountant,39,Female,Diploma,Pune,2007-08-03,18,86732,Meets Expectations,No,4,Active,7+ years,60k-100k
+EMP-0183,Operations,Operations Associate,45,Male,Diploma,Hyderabad,2009-07-07,16,42503,Needs Improvement,No,1,Active,7+ years,30k-60k
+EMP-0184,Operations,Supply Chain Analyst,48,Female,PhD,Dehradun,2021-09-14,4,42843,Needs Improvement,Yes,3,Active,4-6 years,30k-60k
+EMP-0185,Operations,Supply Chain Analyst,44,Female,PhD,Hyderabad,2014-08-10,11,49328,Meets Expectations,Yes,4,Left,7+ years,30k-60k
+EMP-0186,Operations,Operations Associate,36,Female,PhD,Hyderabad,2013-11-23,12,45121,Needs Improvement,Yes,5,Active,7+ years,30k-60k
+EMP-0187,Sales,Account Manager,45,Female,PhD,Dehradun,2025-03-16,0,87129,Exceeds Expectations,No,4,Left,0-1 years,60k-100k
+EMP-0188,Engineering,Software Engineer,35,Non-disclosed,Diploma,Delhi,2016-05-29,9,101495,Needs Improvement,Yes,3,Active,7+ years,100k+
+EMP-0189,Marketing,Marketing Specialist,38,Non-disclosed,PhD,Chennai,2012-11-08,13,42347,Exceeds Expectations,Yes,2,Active,7+ years,30k-60k
+EMP-0190,Operations,Operations Associate,52,Female,Diploma,Dehradun,2011-06-20,14,59830,Exceeds Expectations,No,3,Active,7+ years,30k-60k
+EMP-0191,Engineering,Data Analyst,56,Male,Master's,Dehradun,2020-07-15,5,110542,Meets Expectations,Yes,2,Active,4-6 years,100k+
+EMP-0192,Engineering,QA Engineer,49,Non-disclosed,Bachelor's,Chennai,2020-04-28,5,150360,Needs Improvement,No,3,Active,4-6 years,100k+
+EMP-0193,Human Resources,Recruiter,28,Male,PhD,Hyderabad,2010-02-07,15,65676,Needs Improvement,No,5,Active,7+ years,60k-100k
+EMP-0194,Finance,Accountant,39,Non-disclosed,Master's,Chennai,2015-01-28,10,80770,Meets Expectations,No,4,Active,7+ years,60k-100k
+EMP-0195,Operations,Supply Chain Analyst,53,Male,Master's,Delhi,2012-06-17,13,60796,Needs Improvement,Yes,4,Active,7+ years,60k-100k
+EMP-0196,Marketing,Marketing Specialist,37,Non-disclosed,Master's,Pune,2016-02-13,9,62054,Meets Expectations,No,5,Active,7+ years,60k-100k
+EMP-0197,Customer Support,Support Associate,49,Female,Master's,Hyderabad,2019-12-06,6,59145,Meets Expectations,Yes,2,Left,4-6 years,30k-60k
+EMP-0198,Marketing,SEO Analyst,51,Male,PhD,Hyderabad,2011-07-16,14,64800,Exceeds Expectations,Yes,3,Active,7+ years,60k-100k
+EMP-0199,Marketing,Marketing Specialist,58,Non-disclosed,Master's,Hyderabad,2010-09-17,15,37282,Meets Expectations,Yes,5,Active,7+ years,30k-60k
+EMP-0200,Human Resources,Recruiter,41,Female,Diploma,Bengaluru,2019-07-23,6,59588,Meets Expectations,No,2,Active,4-6 years,30k-60k
+EMP-0201,Engineering,QA Engineer,49,Female,PhD,Pune,2015-05-02,10,128214,Exceeds Expectations,Yes,5,Active,7+ years,100k+
+EMP-0202,Customer Support,Support Associate,29,Female,Bachelor's,Bengaluru,2016-08-17,9,52634,Exceeds Expectations,Yes,4,Active,7+ years,30k-60k
+EMP-0203,Customer Support,Support Associate,49,Male,Diploma,Chennai,2008-12-29,17,36835,Meets Expectations,No,4,Active,7+ years,30k-60k
+EMP-0204,Customer Support,Support Associate,40,Female,Bachelor's,Mumbai,2024-09-14,1,33335,Exceeds Expectations,No,5,Active,0-1 years,30k-60k
+EMP-0205,Human Resources,Recruiter,42,Male,Diploma,Chennai,2023-08-05,2,34635,Needs Improvement,Yes,5,Left,2-3 years,30k-60k
+EMP-0206,Customer Support,Support Specialist,25,Female,Diploma,Dehradun,2015-10-19,10,33096,Exceeds Expectations,No,5,Left,7+ years,30k-60k
+EMP-0207,Operations,Operations Associate,26,Non-disclosed,PhD,Bengaluru,2016-06-15,9,83293,Exceeds Expectations,No,2,Active,7+ years,60k-100k
+EMP-0208,Human Resources,HR Executive,32,Male,Bachelor's,Delhi,2015-07-03,10,86900,Exceeds Expectations,Yes,5,Left,7+ years,60k-100k
+EMP-0209,Customer Support,Support Specialist,43,Female,Master's,Delhi,2013-12-25,12,23288,Exceeds Expectations,No,3,Active,7+ years,Under 30k
+EMP-0210,Operations,Supply Chain Analyst,41,Male,Diploma,Pune,2024-10-01,1,78978,Exceeds Expectations,Yes,4,Active,0-1 years,60k-100k
+EMP-0211,Sales,Sales Executive,46,Non-disclosed,Diploma,Mumbai,2017-02-23,8,50286,Meets Expectations,Yes,5,Active,7+ years,30k-60k
+EMP-0212,Human Resources,Recruiter,34,Female,Diploma,Chennai,2007-03-08,18,43458,Meets Expectations,Yes,5,Active,7+ years,30k-60k
+EMP-0213,Engineering,Data Analyst,44,Male,Master's,Chennai,2012-07-19,13,151163,Meets Expectations,Yes,1,Active,7+ years,100k+
+EMP-0214,Customer Support,Support Specialist,43,Female,Diploma,Chennai,2018-07-02,7,39617,Exceeds Expectations,No,3,Active,7+ years,30k-60k
+EMP-0215,Sales,Sales Executive,47,Female,Master's,Dehradun,2020-03-23,5,33949,Exceeds Expectations,Yes,5,Active,4-6 years,30k-60k
+EMP-0216,Engineering,Data Analyst,53,Female,Diploma,Pune,2018-04-10,7,157840,Meets Expectations,No,4,Active,7+ years,100k+
+EMP-0217,Engineering,QA Engineer,51,Male,Bachelor's,Bengaluru,2015-07-13,10,157849,Needs Improvement,Yes,1,Left,7+ years,100k+
+EMP-0218,Customer Support,Support Associate,50,Female,PhD,Bengaluru,2008-12-22,17,43365,Exceeds Expectations,No,2,Active,7+ years,30k-60k
+EMP-0219,Human Resources,Recruiter,35,Female,PhD,Mumbai,2024-08-11,1,57252,Meets Expectations,No,5,Active,0-1 years,30k-60k
+EMP-0220,Finance,Financial Analyst,38,Female,Not specified,Delhi,2016-08-07,9,104286,Needs Improvement,No,2,Active,7+ years,100k+
+EMP-0221,Engineering,QA Engineer,29,Female,Diploma,Delhi,2010-07-24,15,81118,Meets Expectations,No,2,Left,7+ years,60k-100k
+EMP-0222,Engineering,QA Engineer,43,Non-disclosed,Master's,Pune,2013-12-24,12,103605,Exceeds Expectations,No,3,Active,7+ years,100k+
+EMP-0223,Operations,Operations Associate,54,Female,Master's,Hyderabad,2023-03-02,2,76116,Needs Improvement,No,5,Active,2-3 years,60k-100k
+EMP-0224,Finance,Accountant,42,Male,Bachelor's,Pune,2010-12-11,15,43265,Meets Expectations,Yes,1,Left,7+ years,30k-60k
+EMP-0225,Human Resources,Recruiter,49,Non-disclosed,PhD,Hyderabad,2013-09-02,12,87321,Exceeds Expectations,No,4,Active,7+ years,60k-100k
+EMP-0226,Human Resources,Recruiter,24,Female,Diploma,Bengaluru,2007-09-30,18,57769,Needs Improvement,No,1,Active,7+ years,30k-60k
+EMP-0227,Operations,Supply Chain Analyst,56,Female,PhD,Mumbai,2007-08-22,18,36836,Meets Expectations,No,4,Active,7+ years,30k-60k
+EMP-0228,Marketing,SEO Analyst,34,Non-disclosed,Master's,Pune,2022-08-10,3,61203,Exceeds Expectations,No,3,Active,2-3 years,60k-100k
+EMP-0229,Customer Support,Support Associate,40,Male,PhD,Delhi,2018-03-22,7,34393,Needs Improvement,No,4,Active,7+ years,30k-60k
+EMP-0230,Engineering,QA Engineer,32,Female,Diploma,Mumbai,2010-01-01,16,107442,Meets Expectations,Yes,2,Active,7+ years,100k+
+EMP-0231,Operations,Operations Associate,27,Male,PhD,Delhi,2016-05-08,9,39214,Exceeds Expectations,Yes,5,Active,7+ years,30k-60k
+EMP-0232,Customer Support,Support Specialist,35,Male,PhD,Mumbai,2016-11-18,9,27514,Needs Improvement,Yes,3,Active,7+ years,Under 30k
+EMP-0233,Customer Support,Support Specialist,48,Male,Bachelor's,Pune,2010-07-30,15,63217,Exceeds Expectations,No,2,Active,7+ years,60k-100k
+EMP-0234,Sales,Sales Executive,32,Male,PhD,Bengaluru,2012-05-22,13,46282,Meets Expectations,Yes,1,Active,7+ years,30k-60k
+EMP-0235,Sales,Account Manager,25,Male,PhD,Chennai,2012-09-25,13,83949,Exceeds Expectations,No,4,Left,7+ years,60k-100k
+EMP-0236,Marketing,Marketing Specialist,22,Non-disclosed,Master's,Chennai,2008-05-08,17,63560,Needs Improvement,Yes,5,Active,7+ years,60k-100k
+EMP-0237,Customer Support,Support Specialist,43,Non-disclosed,Bachelor's,Delhi,2011-08-28,14,30922,Meets Expectations,No,3,Active,7+ years,30k-60k
+EMP-0238,Customer Support,Support Associate,47,Non-disclosed,Diploma,Mumbai,2008-12-17,17,58061,Exceeds Expectations,Yes,3,Active,7+ years,30k-60k
+EMP-0239,Human Resources,Recruiter,31,Female,PhD,Delhi,2010-05-05,15,37760,Meets Expectations,No,3,Active,7+ years,30k-60k
+EMP-0240,Sales,Sales Executive,59,Female,Diploma,Pune,2008-12-11,17,73638,Meets Expectations,No,4,Active,7+ years,60k-100k
+EMP-0241,Finance,Financial Analyst,37,Non-disclosed,PhD,Dehradun,2012-03-07,13,76185,Exceeds Expectations,Yes,1,Left,7+ years,60k-100k
+EMP-0242,Sales,Sales Executive,49,Non-disclosed,Bachelor's,Pune,2021-03-25,4,51918,Exceeds Expectations,Yes,4,Active,4-6 years,30k-60k
+EMP-0243,Operations,Operations Associate,56,Non-disclosed,Diploma,Dehradun,2010-07-23,15,42275,Needs Improvement,No,3,Left,7+ years,30k-60k
+EMP-0244,Sales,Sales Executive,57,Male,PhD,Chennai,2015-12-12,10,70910,Meets Expectations,No,1,Active,7+ years,60k-100k
+EMP-0245,Marketing,SEO Analyst,46,Non-disclosed,Master's,Hyderabad,2019-02-17,6,40227,Exceeds Expectations,Yes,5,Active,4-6 years,30k-60k
+EMP-0246,Finance,Financial Analyst,37,Non-disclosed,Bachelor's,Delhi,2009-09-06,16,42169,Meets Expectations,No,1,Active,7+ years,30k-60k
+EMP-0247,Customer Support,Support Specialist,33,Female,Bachelor's,Mumbai,2020-12-10,5,51508,Needs Improvement,No,3,Active,4-6 years,30k-60k
+EMP-0248,Operations,Supply Chain Analyst,55,Female,Bachelor's,Dehradun,2010-11-28,15,45135,Exceeds Expectations,No,4,Left,7+ years,30k-60k
+EMP-0249,Engineering,QA Engineer,34,Female,PhD,Mumbai,2024-08-16,1,49142,Meets Expectations,Yes,2,Active,0-1 years,30k-60k
+EMP-0250,Finance,Accountant,31,Non-disclosed,PhD,Chennai,2010-02-07,15,97118,Meets Expectations,Yes,1,Active,7+ years,60k-100k
+EMP-0251,Sales,Sales Executive,46,Female,Bachelor's,Mumbai,2024-07-25,1,54412,Meets Expectations,No,3,Active,0-1 years,30k-60k
+EMP-0252,Sales,Sales Executive,26,Female,Bachelor's,Dehradun,2011-06-24,14,39935,Meets Expectations,Yes,4,Active,7+ years,30k-60k
+EMP-0253,Finance,Accountant,57,Non-disclosed,Master's,Dehradun,2022-10-16,3,74720,Needs Improvement,Yes,2,Active,2-3 years,60k-100k
+EMP-0254,Marketing,Marketing Specialist,44,Male,PhD,Delhi,2025-10-27,0,46470,Meets Expectations,Yes,4,Active,0-1 years,30k-60k
+EMP-0255,Finance,Financial Analyst,56,Female,Bachelor's,Mumbai,2014-06-21,11,43718,Needs Improvement,No,2,Active,7+ years,30k-60k
+EMP-0256,Customer Support,Support Associate,29,Male,Bachelor's,Pune,2020-09-27,5,44119,Meets Expectations,Yes,1,Left,4-6 years,30k-60k
+EMP-0257,Human Resources,HR Executive,31,Non-disclosed,Diploma,Dehradun,2021-02-23,4,30445,Meets Expectations,No,5,Active,4-6 years,30k-60k
+EMP-0258,Marketing,SEO Analyst,35,Male,PhD,Dehradun,2016-05-06,9,46181,Exceeds Expectations,Yes,2,Left,7+ years,30k-60k
+EMP-0259,Engineering,QA Engineer,57,Non-disclosed,PhD,Delhi,2008-02-26,17,142157,Exceeds Expectations,No,2,Active,7+ years,100k+
+EMP-0260,Marketing,SEO Analyst,27,Female,Bachelor's,Pune,2019-04-17,6,39396,Exceeds Expectations,No,1,Active,4-6 years,30k-60k
+EMP-0261,Sales,Account Manager,47,Male,Master's,Delhi,2008-06-02,17,42015,Meets Expectations,No,3,Active,7+ years,30k-60k
+EMP-0262,Engineering,Data Analyst,56,Male,Diploma,Mumbai,2023-07-07,2,60133,Needs Improvement,Yes,2,Active,2-3 years,60k-100k
+EMP-0263,Operations,Operations Associate,38,Female,Master's,Dehradun,2017-03-06,8,28524,Exceeds Expectations,No,1,Active,7+ years,Under 30k
+EMP-0264,Marketing,SEO Analyst,58,Female,PhD,Delhi,2018-11-29,7,34205,Needs Improvement,No,5,Active,7+ years,30k-60k
+EMP-0265,Finance,Financial Analyst,39,Non-disclosed,Bachelor's,Hyderabad,2008-12-24,17,70345,Meets Expectations,Yes,3,Active,7+ years,60k-100k
+EMP-0266,Sales,Account Manager,41,Female,Bachelor's,Delhi,2015-08-30,10,41624,Needs Improvement,Yes,1,Active,7+ years,30k-60k
+EMP-0267,Finance,Accountant,23,Male,PhD,Mumbai,2009-11-15,16,58447,Meets Expectations,Yes,3,Active,7+ years,30k-60k
+EMP-0268,Marketing,SEO Analyst,35,Male,Diploma,Pune,2007-10-23,18,51976,Meets Expectations,No,4,Active,7+ years,30k-60k
+EMP-0269,Customer Support,Support Specialist,41,Female,Bachelor's,Pune,2024-12-25,1,23284,Meets Expectations,Yes,1,Active,0-1 years,Under 30k
+EMP-0270,Customer Support,Support Specialist,59,Female,Bachelor's,Delhi,2025-05-14,0,36129,Needs Improvement,No,1,Left,0-1 years,30k-60k
+EMP-0271,Finance,Accountant,58,Non-disclosed,Diploma,Hyderabad,2022-12-04,3,71660,Meets Expectations,Yes,4,Active,2-3 years,60k-100k
+EMP-0272,Sales,Sales Executive,57,Female,Bachelor's,Dehradun,2007-02-09,18,40022,Meets Expectations,Yes,2,Active,7+ years,30k-60k
+EMP-0273,Finance,Financial Analyst,54,Male,Diploma,Dehradun,2017-09-19,8,105604,Needs Improvement,Yes,3,Active,7+ years,100k+
+EMP-0274,Finance,Accountant,43,Non-disclosed,PhD,Dehradun,2013-01-24,12,66861,Meets Expectations,Yes,1,Active,7+ years,60k-100k
+EMP-0275,Human Resources,Recruiter,48,Male,Master's,Bengaluru,2007-11-10,18,65059,Exceeds Expectations,Yes,3,Active,7+ years,60k-100k
+EMP-0276,Finance,Accountant,23,Non-disclosed,Bachelor's,Delhi,2011-03-29,14,74430,Exceeds Expectations,No,2,Active,7+ years,60k-100k
+EMP-0277,Sales,Account Manager,30,Non-disclosed,PhD,Mumbai,2016-12-12,9,56716,Needs Improvement,No,3,Active,7+ years,30k-60k
+EMP-0278,Finance,Accountant,28,Male,Master's,Hyderabad,2019-11-11,6,34246,Exceeds Expectations,No,5,Active,4-6 years,30k-60k
+EMP-0279,Finance,Financial Analyst,51,Male,Bachelor's,Bengaluru,2017-10-16,8,67706,Meets Expectations,Yes,1,Active,7+ years,60k-100k
+EMP-0280,Human Resources,HR Executive,36,Male,Master's,Mumbai,2025-06-26,0,69211,Exceeds Expectations,No,5,Active,0-1 years,60k-100k
+EMP-0281,Customer Support,Support Specialist,29,Female,Master's,Delhi,2021-06-24,4,65065,Needs Improvement,No,4,Left,4-6 years,60k-100k
+EMP-0282,Customer Support,Support Associate,42,Non-disclosed,Master's,Pune,2022-07-17,3,44227,Exceeds Expectations,No,4,Active,2-3 years,30k-60k
+EMP-0283,Operations,Supply Chain Analyst,57,Non-disclosed,PhD,Mumbai,2011-09-27,14,67586,Meets Expectations,Yes,1,Active,7+ years,60k-100k
+EMP-0284,Marketing,Marketing Specialist,54,Male,Master's,Mumbai,2008-10-28,17,92094,Exceeds Expectations,Yes,2,Active,7+ years,60k-100k
+EMP-0285,Marketing,Marketing Specialist,58,Male,Bachelor's,Bengaluru,2014-09-17,11,43600,Needs Improvement,Yes,4,Active,7+ years,30k-60k
+EMP-0286,Sales,Account Manager,52,Female,Bachelor's,Mumbai,2013-10-09,12,91307,Meets Expectations,Yes,1,Left,7+ years,60k-100k
+EMP-0287,Engineering,Data Analyst,42,Non-disclosed,Master's,Chennai,2008-01-25,17,114347,Exceeds Expectations,No,5,Active,7+ years,100k+
+EMP-0288,Customer Support,Support Associate,32,Female,PhD,Hyderabad,2009-09-17,16,43805,Needs Improvement,Yes,3,Left,7+ years,30k-60k
+EMP-0289,Human Resources,HR Executive,29,Male,PhD,Chennai,2015-07-09,10,66160,Exceeds Expectations,Yes,1,Active,7+ years,60k-100k
+EMP-0290,Sales,Account Manager,47,Female,Master's,Mumbai,2023-09-12,2,63410,Meets Expectations,Yes,4,Active,2-3 years,60k-100k
+EMP-0291,Operations,Supply Chain Analyst,42,Male,PhD,Bengaluru,2007-12-20,18,62388,Needs Improvement,No,5,Active,7+ years,60k-100k
+EMP-0292,Marketing,Marketing Specialist,30,Female,Master's,Dehradun,2008-03-25,17,57366,Needs Improvement,No,5,Active,7+ years,30k-60k
+EMP-0293,Finance,Accountant,58,Non-disclosed,Diploma,Chennai,2020-12-27,5,82010,Needs Improvement,No,3,Active,4-6 years,60k-100k
+EMP-0294,Customer Support,Support Specialist,57,Female,PhD,Chennai,2023-03-28,2,69745,Meets Expectations,No,2,Active,2-3 years,60k-100k
+EMP-0295,Finance,Accountant,28,Male,Master's,Dehradun,2011-07-08,14,87650,Meets Expectations,Yes,5,Active,7+ years,60k-100k
+EMP-0296,Marketing,SEO Analyst,53,Non-disclosed,Bachelor's,Bengaluru,2009-12-20,16,85181,Exceeds Expectations,Yes,3,Active,7+ years,60k-100k
+EMP-0297,Operations,Operations Associate,22,Female,Diploma,Dehradun,2017-10-19,8,75864,Meets Expectations,No,1,Active,7+ years,60k-100k
+EMP-0298,Marketing,SEO Analyst,37,Non-disclosed,Master's,Hyderabad,2007-09-03,18,51358,Exceeds Expectations,Yes,1,Left,7+ years,30k-60k
+EMP-0299,Human Resources,HR Executive,40,Female,Diploma,Pune,2020-08-10,5,64844,Meets Expectations,Yes,3,Active,4-6 years,60k-100k
+EMP-0300,Operations,Operations Associate,58,Male,Diploma,Pune,2009-05-17,16,83768,Exceeds Expectations,Yes,4,Active,7+ years,60k-100k
+EMP-0301,Human Resources,HR Executive,38,Male,Master's,Delhi,2018-10-16,7,44199,Exceeds Expectations,No,1,Active,7+ years,30k-60k
+EMP-0302,Marketing,Marketing Specialist,21,Male,Diploma,Mumbai,2023-07-14,2,60778,Meets Expectations,Yes,2,Active,2-3 years,60k-100k
+EMP-0303,Sales,Account Manager,47,Non-disclosed,PhD,Hyderabad,2025-02-12,0,33151,Needs Improvement,Yes,3,Left,0-1 years,30k-60k
+EMP-0304,Operations,Supply Chain Analyst,51,Non-disclosed,PhD,Dehradun,2022-01-18,3,70035,Meets Expectations,No,2,Active,2-3 years,60k-100k
+EMP-0305,Operations,Operations Associate,46,Male,Bachelor's,Hyderabad,2017-06-03,8,28287,Exceeds Expectations,No,5,Active,7+ years,Under 30k
+EMP-0306,Marketing,SEO Analyst,35,Female,PhD,Mumbai,2023-04-13,2,58140,Needs Improvement,No,4,Active,2-3 years,30k-60k
+EMP-0307,Engineering,Software Engineer,43,Male,PhD,Mumbai,2010-03-03,15,50328,Meets Expectations,No,5,Active,7+ years,30k-60k
+EMP-0308,Customer Support,Support Specialist,26,Non-disclosed,Diploma,Pune,2013-09-24,12,67529,Needs Improvement,No,3,Active,7+ years,60k-100k
+EMP-0309,Human Resources,Recruiter,33,Non-disclosed,Bachelor's,Chennai,2022-10-08,3,62222,Exceeds Expectations,Yes,2,Active,2-3 years,60k-100k
+EMP-0310,Sales,Account Manager,22,Male,Bachelor's,Dehradun,2017-02-01,8,98476,Needs Improvement,No,4,Active,7+ years,60k-100k
+EMP-0311,Engineering,QA Engineer,32,Male,Bachelor's,Mumbai,2017-05-09,8,56171,Needs Improvement,No,5,Active,7+ years,30k-60k
+EMP-0312,Customer Support,Support Specialist,24,Male,Master's,Mumbai,2009-11-07,16,33826,Meets Expectations,Yes,5,Active,7+ years,30k-60k
+EMP-0313,Sales,Account Manager,31,Male,Master's,Chennai,2020-01-30,5,47179,Needs Improvement,Yes,4,Left,4-6 years,30k-60k
+EMP-0314,Human Resources,Recruiter,51,Female,Master's,Dehradun,2009-06-20,16,69141,Needs Improvement,No,5,Active,7+ years,60k-100k
+EMP-0315,Operations,Supply Chain Analyst,41,Male,Bachelor's,Hyderabad,2010-11-21,15,81114,Exceeds Expectations,No,1,Active,7+ years,60k-100k
+EMP-0316,Human Resources,HR Executive,57,Female,Master's,Hyderabad,2015-11-01,10,68592,Meets Expectations,No,1,Left,7+ years,60k-100k
+EMP-0317,Engineering,Data Analyst,37,Non-disclosed,PhD,Chennai,2010-11-12,15,91640,Needs Improvement,Yes,1,Active,7+ years,60k-100k
+EMP-0318,Operations,Supply Chain Analyst,21,Non-disclosed,Master's,Mumbai,2012-01-24,13,42513,Meets Expectations,Yes,5,Active,7+ years,30k-60k
+EMP-0319,Sales,Sales Executive,54,Male,Master's,Mumbai,2025-02-15,0,67651,Exceeds Expectations,Yes,3,Left,0-1 years,60k-100k
+EMP-0320,Operations,Operations Associate,30,Male,PhD,Hyderabad,2016-10-04,9,36093,Meets Expectations,Yes,4,Active,7+ years,30k-60k
+EMP-0321,Finance,Accountant,37,Male,Diploma,Delhi,2024-10-06,1,94223,Exceeds Expectations,Yes,1,Active,0-1 years,60k-100k
+EMP-0322,Human Resources,HR Executive,50,Female,PhD,Bengaluru,2020-11-15,5,31820,Needs Improvement,No,3,Active,4-6 years,30k-60k
+EMP-0323,Customer Support,Support Specialist,22,Non-disclosed,Bachelor's,Dehradun,2022-01-25,3,55782,Exceeds Expectations,No,3,Active,2-3 years,30k-60k
+EMP-0324,Operations,Supply Chain Analyst,41,Male,Diploma,Delhi,2020-07-24,5,70415,Meets Expectations,Yes,2,Left,4-6 years,60k-100k
+EMP-0325,Operations,Operations Associate,32,Female,Bachelor's,Dehradun,2017-08-01,8,41371,Exceeds Expectations,Yes,3,Active,7+ years,30k-60k
+EMP-0326,Engineering,QA Engineer,26,Male,Diploma,Mumbai,2021-06-13,4,66013,Meets Expectations,No,5,Active,4-6 years,60k-100k
+EMP-0327,Customer Support,Support Associate,53,Female,PhD,Pune,2019-08-02,6,63427,Meets Expectations,Yes,5,Active,4-6 years,60k-100k
+EMP-0328,Human Resources,HR Executive,29,Female,Diploma,Hyderabad,2014-03-26,11,39733,Meets Expectations,Yes,1,Left,7+ years,30k-60k
+EMP-0329,Customer Support,Support Specialist,31,Female,Bachelor's,Chennai,2019-09-27,6,64586,Exceeds Expectations,No,1,Active,4-6 years,60k-100k
+EMP-0330,Engineering,Data Analyst,58,Female,Diploma,Mumbai,2008-08-29,17,80643,Needs Improvement,No,3,Active,7+ years,60k-100k
+EMP-0331,Human Resources,Recruiter,27,Male,Diploma,Chennai,2018-07-28,7,80755,Needs Improvement,Yes,5,Left,7+ years,60k-100k
+EMP-0332,Sales,Sales Executive,45,Male,PhD,Delhi,2020-08-03,5,77013,Exceeds Expectations,No,1,Active,4-6 years,60k-100k
+EMP-0333,Human Resources,HR Executive,38,Female,Diploma,Pune,2012-12-08,13,45303,Needs Improvement,No,1,Active,7+ years,30k-60k
+EMP-0334,Marketing,Marketing Specialist,33,Male,Master's,Delhi,2017-06-20,8,35546,Needs Improvement,No,2,Active,7+ years,30k-60k
+EMP-0335,Customer Support,Support Associate,48,Female,Master's,Delhi,2011-09-14,14,44132,Meets Expectations,Yes,3,Active,7+ years,30k-60k
+EMP-0336,Engineering,Data Analyst,41,Non-disclosed,PhD,Delhi,2022-04-01,3,126573,Exceeds Expectations,No,3,Left,2-3 years,100k+
+EMP-0337,Marketing,Marketing Specialist,37,Female,Master's,Hyderabad,2011-04-18,14,82665,Meets Expectations,Yes,2,Active,7+ years,60k-100k
+EMP-0338,Marketing,Marketing Specialist,21,Female,PhD,Bengaluru,2014-01-03,12,30317,Exceeds Expectations,Yes,3,Active,7+ years,30k-60k
+EMP-0339,Sales,Sales Executive,30,Non-disclosed,Diploma,Chennai,2007-12-07,18,45243,Meets Expectations,No,1,Left,7+ years,30k-60k
+EMP-0340,Finance,Financial Analyst,46,Non-disclosed,PhD,Dehradun,2009-06-17,16,64740,Exceeds Expectations,Yes,2,Active,7+ years,60k-100k
+EMP-0341,Customer Support,Support Associate,36,Male,Master's,Delhi,2008-04-24,17,69699,Exceeds Expectations,No,1,Active,7+ years,60k-100k
+EMP-0342,Operations,Supply Chain Analyst,41,Male,Master's,Hyderabad,2007-07-11,18,49693,Needs Improvement,Yes,3,Active,7+ years,30k-60k
+EMP-0343,Finance,Financial Analyst,38,Male,Bachelor's,Delhi,2013-10-09,12,81798,Exceeds Expectations,No,4,Active,7+ years,60k-100k
+EMP-0344,Human Resources,Recruiter,35,Male,Diploma,Mumbai,2018-05-31,7,63349,Needs Improvement,Yes,3,Active,7+ years,60k-100k
+EMP-0345,Customer Support,Support Associate,22,Female,Bachelor's,Mumbai,2019-03-08,6,41351,Needs Improvement,Yes,2,Active,4-6 years,30k-60k
+EMP-0346,Marketing,Marketing Specialist,31,Female,PhD,Delhi,2022-12-18,3,90752,Exceeds Expectations,Yes,4,Left,2-3 years,60k-100k
+EMP-0347,Sales,Sales Executive,40,Male,Bachelor's,Dehradun,2013-04-08,12,54339,Meets Expectations,No,2,Active,7+ years,30k-60k
+EMP-0348,Human Resources,HR Executive,47,Non-disclosed,Master's,Mumbai,2016-07-28,9,79213,Exceeds Expectations,No,1,Active,7+ years,60k-100k
+EMP-0349,Finance,Accountant,40,Male,PhD,Dehradun,2016-11-13,9,45951,Meets Expectations,No,1,Active,7+ years,30k-60k
+EMP-0350,Sales,Sales Executive,23,Female,Master's,Chennai,2010-02-27,15,46775,Meets Expectations,No,3,Active,7+ years,30k-60k

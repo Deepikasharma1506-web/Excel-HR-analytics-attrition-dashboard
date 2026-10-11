@@ -1,0 +1,17 @@
+Column,Description,Format
+Employee_ID,Synthetic unique identifier,Text
+Department,Employee department,Category
+Job_Role,Role title,Text
+Age,Age in years,Integer
+Gender,Synthetic category,Category
+Education,Education level,Category
+Location,Work location,City
+Hire_Date,Hire date,YYYY-MM-DD
+Tenure_Years,Completed years of tenure,Integer
+Monthly_Salary_INR,Monthly salary assumption,INR
+Performance_Rating,Simplified performance category,Category
+Overtime,Overtime recorded,Yes/No
+Job_Satisfaction_1to5,Synthetic satisfaction score,1-5
+Employment_Status,Synthetic status,Active/Left
+Tenure_Band,Derived tenure group,Category
+Salary_Band,Derived salary range,Category
